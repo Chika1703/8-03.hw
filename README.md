@@ -9,6 +9,7 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 решение:
+
 https://github.com/Chika1703/8-03.hw/blob/main/photo_2024-03-13_06-50-34%20(2).jpg
 
 https://github.com/Chika1703/8-03.hw/blob/main/photo_2024-03-13_06-50-34.jpg
@@ -24,6 +25,7 @@ https://github.com/Chika1703/8-03.hw/blob/main/photo_2024-03-13_06-50-34.jpg
 скриншоты с успешно собранными сборками.
 
 решение:
+
 https://github.com/Chika1703/8-03.hw/blob/main/photo_2024-03-13_06-50-34%20(3).jpg
 
 https://github.com/Chika1703/8-03.hw/blob/main/photo_2024-03-13_06-50-34%20(4).jpg
